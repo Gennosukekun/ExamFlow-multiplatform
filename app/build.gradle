@@ -1,0 +1,18 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.examflow.italia'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.examflow.italia'
+        minSdk 23
+        targetSdk 35
+        versionCode 3
+        versionName '3.0'
+    }
+}
+
+dependencies {}
