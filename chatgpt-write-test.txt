@@ -1,0 +1,3 @@
+Test di scrittura GitHub eseguito da ChatGPT il 16 settembre 2026.
+
+Se questo file è presente nel repository, il collegamento in scrittura funziona correttamente.
